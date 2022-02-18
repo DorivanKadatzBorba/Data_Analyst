@@ -9,5 +9,5 @@ para desenvolver problemas reais escolhido pela propria equipe, e também contou
 nas apresentações dos projetos. Meu papel neste projeto era análisar os dados para validar o problema de negócio para que
 o engenheiro de machine learning pudesse chegar no melhor resultado.
 
-OBS: Este repositório consta apenas a minha parte no projeto, apenas um fragmento de todo o projeto, não tive a oportunidade de consegui
-     todo o projeto devido inatividade devido forças maiores no final do projeto.
+OBS: Este repositório consta apenas a minha parte no projeto, apenas um fragmento de todo o projeto, não consegui todo o script
+     do projeto devido minha inatividade por forças maiores no final do projeto.
